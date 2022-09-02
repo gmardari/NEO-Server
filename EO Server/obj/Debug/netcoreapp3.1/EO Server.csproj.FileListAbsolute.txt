@@ -1,0 +1,39 @@
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\EO Server.exe
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\EO Server.deps.json
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\EO Server.runtimeconfig.json
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\EO Server.runtimeconfig.dev.json
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\EO Server.dll
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\EO Server.pdb
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\marda\source\repos\EO Server\EO Server\obj\Debug\netcoreapp3.1\EO Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\source\repos\EO Server\EO Server\obj\Debug\netcoreapp3.1\EO Server.AssemblyInfoInputs.cache
+C:\Users\marda\source\repos\EO Server\EO Server\obj\Debug\netcoreapp3.1\EO Server.AssemblyInfo.cs
+C:\Users\marda\source\repos\EO Server\EO Server\obj\Debug\netcoreapp3.1\EO Server.csproj.CoreCompileInputs.cache
+C:\Users\marda\source\repos\EO Server\EO Server\obj\Debug\netcoreapp3.1\EO Server.csproj.CopyComplete
+C:\Users\marda\source\repos\EO Server\EO Server\obj\Debug\netcoreapp3.1\EO Server.dll
+C:\Users\marda\source\repos\EO Server\EO Server\obj\Debug\netcoreapp3.1\EO Server.pdb
+C:\Users\marda\source\repos\EO Server\EO Server\obj\Debug\netcoreapp3.1\EO Server.genruntimeconfig.cache
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\marda\source\repos\EO Server\EO Server\obj\Debug\netcoreapp3.1\EO Server.csproj.AssemblyReference.cache
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\maps\map001.txt
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\data\dat002.txt
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\data\dat001.txt
+C:\Users\marda\source\repos\EO Server\EO Server\bin\Debug\netcoreapp3.1\maps\map002.txt

@@ -1,0 +1,1 @@
+{"EO_VERSION":"0.1","Entries":[{"GfxId":0,"NpcType":1,"Name":"Sheep","MaxHealth":10}]}

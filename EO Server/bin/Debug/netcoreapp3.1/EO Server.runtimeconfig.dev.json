@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\marda\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\marda\\.nuget\\packages"
+    ]
+  }
+}

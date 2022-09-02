@@ -1,0 +1,42 @@
+﻿{ 
+	"dataFileVersion" : "0.1", 
+	"entries" : [
+	{
+		"name" : "Gold",
+		"displayGfx" : 35,
+		"itemType" : 0,
+		"sizeX" : 2,
+		"sizeY" : 1
+	},
+	{
+		"name" : "Mana Potion",
+		"displayGfx" : 2,
+		"itemType" : 2,
+		"sizeX" : 1,
+		"sizeY" : 1
+	},
+	{
+		"name" : "Armor",
+		"displayGfx" : 156,
+		"bodyGfx" : 1,
+		"itemType" : 4,
+		"sizeX" : 2,
+		"sizeY" : 3
+	},
+	{
+		"name" : "Battle Spear",
+		"displayGfx" : 387,
+		"bodyGfx" : 62,
+		"itemType" : 5,
+		"sizeX" : 2,
+		"sizeY" : 4
+	},
+	{
+		"name" : "Boots",
+		"displayGfx" : 88,
+		"bodyGfx" : 1,
+		"itemType" : 11,
+		"sizeX" : 2,
+		"sizeY" : 2
+	}]
+}
